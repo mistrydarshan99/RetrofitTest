@@ -1,0 +1,69 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fivedp">5dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="fifteen">15dp</dimen>
+    <dimen name="twentydp">20dp</dimen>
+    <dimen name="thirtydp">30dp</dimen>
+
+    <!-- Font sizes -->
+    <dimen name="font_largest">22sp</dimen>
+    <dimen name="font_larger">18sp</dimen>
+    <dimen name="font_large">16sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_verysmall">10sp</dimen>
+    <dimen name="font_xsmall">8sp</dimen>
+    <dimen name="slide_menu_text_size">16dp</dimen>
+
+    <dimen name="drawer_width">225dp</dimen>
+    <dimen name="deviderHeight">1dp</dimen>
+
+    <dimen name="login_edittext">50dp</dimen>
+    <dimen name="radiogrp_margin">10dp</dimen>
+    <dimen name="login_btn">50dp</dimen>
+
+    <!-- Splash screen -->
+    <dimen name="splash_content_width">350dp</dimen>
+    <dimen name="splash_content_height">350dp</dimen>
+
+    <dimen name="splash_logo_width">220dp</dimen>
+    <dimen name="splash_logo_height">220dp</dimen>
+
+    <!--Login -->
+    <dimen name="login_logo_width">150dp</dimen>
+    <dimen name="login_logo_height">150dp</dimen>
+    <dimen name="btn_fab_size">50dp</dimen>
+
+    <dimen name="dialog_btn_width">100dp</dimen>
+    <dimen name="dialog_btn_height">40dp</dimen>
+    <dimen name="bottom_padding">70dp</dimen>
+
+    <!--Order detail-->
+    <dimen name="order_detail_padding_horizontal">10dp</dimen>
+    <dimen name="order_detail_padding_vertical">10dp</dimen>
+    <dimen name="order_detail_margin_vertical">5dp</dimen>
+
+    <dimen name="card_corner_radius">0dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="btn_height">35dp</dimen>
+    <dimen name="searchbar_heights">30dp</dimen>
+    <dimen name="do_line_row_height">40dp</dimen>
+    <dimen name="row_load_report_height">40dp</dimen>
+    <dimen name="aging_detail_cell_width">70dp</dimen>
+    <dimen name="credit_width">90dp</dimen>
+    <dimen name="load_report_header_height">40dp</dimen>
+    <dimen name="load_report_width">130dp</dimen>
+    <dimen name="load_report_width_description">200dp</dimen>
+    <dimen name="load_report_qty">80dp</dimen>
+
+    <!--make payment -->
+    <dimen name="sign_layout_height">100dp</dimen>
+    <dimen name="imageSize">100dp</dimen>
+    <dimen name="imageListHeight">120dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

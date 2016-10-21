@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="internet_not_available">Connection Timeout. Please verify your internet connection.</string>
+    <string name="internet_off">Need internet connection to perform operation – please retry when internet connection is available.</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="please_wait">Please wait...</string>
+
+</resources>

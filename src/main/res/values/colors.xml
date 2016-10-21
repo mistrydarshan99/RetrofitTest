@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="light_grey">#dfdfdf</color>
+    <color name="header_grey">#e0e0e0</color>
+    <color name="header_grey_dark">#d0d0d0</color>
+    <color name="header_black">#555555</color>
+
+    <color name="text_white">#fefefe</color>
+    <color name="text_light_grey">#838383</color>
+    <color name="text_dark_grey">#4e4e4e</color>
+    <color name="text_darkest_grey">#2e2e2e</color>
+
+    <color name="colorPrimaryDark">#0075b9</color>
+    <color name="colorPrimary">#1d83ca</color>
+    <color name="colorAccent">#00a77e</color>
+    <color name="textColorPrimary">#4e4e4e</color>
+    <color name="textColorPrimaryLight">#8f8f8f</color>
+    <color name="windowBackground">#f0f0f0</color>
+    <color name="drawerBackground">#f6f6f6</color>
+    <color name="navigationBarColor">#000000</color>
+
+    <!--Login Screen-->
+    <color name="color_hint">#939393</color>
+    <color name="color_edittext">#4e4e4e</color>
+    <color name="color_forgotpwd">#616161</color>
+
+    <!-- [Dashboad color] -->
+    <color name="color_search">#00a77e</color>
+    <color name="color_green_highlight">#8800a77e</color>
+    <color name="color_card_delinq">#ddffdede</color>
+    <color name="color_card_new">#dddedeff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="open_status">#4cc1a4</color>
+    <color name="offroute_status">#573FB5</color>
+    <color name="closed_status">#f9b361</color>
+    <color name="delinquent_status">#ff4c4c</color>
+    <color name="void_status">#778dad</color>
+    <color name="bottom_menu_bg">#75000000</color>
+
+</resources>
