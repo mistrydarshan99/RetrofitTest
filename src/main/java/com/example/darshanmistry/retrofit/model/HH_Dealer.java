@@ -1,15 +1,13 @@
 package com.example.darshanmistry.retrofit.model;
 
+import com.activeandroid.Model;
 import com.activeandroid.annotation.Column;
 import com.activeandroid.annotation.Table;
 import com.google.gson.annotations.Expose;
 
-/**
- * Created by vaibhav.jani on 21-Jul-15.
- */
 
 @Table(name = "HH_DealerBean")
-public class HH_Dealer {
+public class HH_Dealer extends Model{
 
     public HH_Dealer() {
 

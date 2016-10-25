@@ -1,6 +1,7 @@
 package com.example.darshanmistry.retrofit.network;
 
 import com.example.darshanmistry.retrofit.BuildConfig;
+import com.example.darshanmistry.retrofit.utils.AppGSonBuilder;
 
 import java.util.concurrent.TimeUnit;
 
@@ -38,7 +39,7 @@ public class RetrofitSingleton {
                 retrofit = new Retrofit.Builder()
                         .baseUrl(ApiInterface.HOST)
                         .client(configClient())
-                        .addConverterFactory(GsonConverterFactory.create())
+                        .addConverterFactory(GsonConverterFactory.create(AppGSonBuilder.getExternal()))
                         .build();
 
                 apiService = retrofit.create(ApiInterface.class);
